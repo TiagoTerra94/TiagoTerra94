@@ -15,7 +15,7 @@ So, my frameworks and tools that I use/used are:
   </ul>
   <h2>Frameworks</h2>
   <ul>
-    <img src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000" style="height: 100px;"></img>
+    <img src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000" style="height: 100px;" alt="></img>
     <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" style="height: 100px"></img>
     <img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" style="height: 100px"></img>
     <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" style="height: 100px"></img>
